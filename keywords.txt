@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For NoDelayFader
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+NoDelayFader	KEYWORD1	NoDelayFader
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setValue	KEYWORD2
+setFader	KEYWORD2
+update	KEYWORD2
+stop	KEYWORD2
+currentValue	KEYWORD2
+running	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+VIRTUAL	LITERAL1
+GPIO	LITERAL1
