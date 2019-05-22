@@ -50,5 +50,10 @@ Set a start value by calling setValue()
 myFader.setValue(23);
 ```
 
+## Getting the value to set a variable
+```cpp
+myVariable = myFader.currentValue();
+```
+
 ## Examples
 Check out the examples in the **File -> Examples -> NoDelayFader** menu.
